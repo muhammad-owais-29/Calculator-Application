@@ -1,0 +1,67 @@
+#main{
+    border:2px solid gray;
+    margin:0 auto;
+    width:200px;
+}
+
+#input{
+    border:2px solid gray;
+    background-color:rgb(94, 94, 94);
+    color:orangered;
+    width: 96%;
+    height:41px;
+    font-size: 22px;
+}
+
+#clearBtn{
+   width:99%;
+   height: 36px;
+   margin-top:7px;
+   background-color:  orange;
+}
+
+.sBtn{
+ width:20%;
+ height:44px;
+ margin:3px;
+ border-radius:10px;
+ background-color:grey;
+
+}
+#sBtn1{
+    width:20%;
+ height:44px;
+ margin:3px;
+ border-radius:10px;
+    background-color:white ;
+}
+
+#sBtn2{
+    width:20%;
+ height:44px;
+ margin:3px;
+ border-radius:10px;
+    background-color:white ;
+}
+
+#sBtn3{
+    width:20%;
+ height:44px;
+ margin:3px;
+ border-radius:10px;
+    background-color:white ;
+}
+#sBtn4{
+    width:20%;
+ height:44px;
+ margin:3px;
+ border-radius:10px;
+    background-color:white ;
+}
+#sBtn5{
+    width:20%;
+ height:44px;
+ margin:3px;
+ border-radius:10px;
+    background-color:white ;
+}
